@@ -1,4 +1,4 @@
-﻿namespace ZbW.Math.TestFramework.Library
+﻿namespace ZbW.Testing.MathLight.Library
 {
     public class BasicOperation
     {

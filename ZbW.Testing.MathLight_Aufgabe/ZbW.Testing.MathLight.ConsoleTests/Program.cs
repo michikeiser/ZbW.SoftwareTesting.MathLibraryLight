@@ -1,4 +1,4 @@
-﻿namespace ZbW.Math.TestApp.Library.Console
+﻿namespace ZbW.Testing.MathLight.ConsoleTests
 {
     public static class Program
     {

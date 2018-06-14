@@ -1,4 +1,4 @@
-﻿namespace ZbW.Math.TestApp.Library.Console
+﻿namespace ZbW.Testing.MathLight.Library.ConsoleTests
 {
     using System;
 
@@ -16,9 +16,9 @@
         {
             var basicOperations = new BasicOperation();
 
-            Console.WriteLine("######################################################");
-            Console.WriteLine("# Hi, I'm your Test Application for MathLibary Light #");
-            Console.WriteLine("######################################################");
+            Console.WriteLine("#######################################################");
+            Console.WriteLine("# Hi, I'm your Test Application for MathLibrary Light #");
+            Console.WriteLine("#######################################################");
             Console.WriteLine();
 
             // **********************************************************************************************
